@@ -1,0 +1,22 @@
+# Build and binary artifacts
+*.exe
+*.apk
+*.zip
+dist/
+build/
+.gradle/
+local.properties
+jdk17_bin/
+gradle_bin/
+gradle.zip
+jdk17.zip
+temp_report.json
+*.pyc
+__pycache__/
+
+# OS and IDE files
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+Thumbs.db
